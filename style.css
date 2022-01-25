@@ -1,0 +1,40 @@
+.bg-color {
+background-color: rgb(131, 228, 235);
+
+}
+.nav-tbg-color {
+    color: grey;
+}
+.container-config {
+    min-height: 400px;
+    margin-bottom: 50px
+}
+
+.captionconfig {
+    color: black;
+    text-shadow: 2px 2px 2px white
+    
+}
+
+.carousel-inner img {
+    width: 100%;
+    /* max-height: 460px; */
+}
+
+.carousel-inner{
+ height: 360px;
+}
+.carousel-caption {
+    position: absolute;
+    right: 15%;
+    bottom: 1rem;
+    left: 15%;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    /* color: #fff; */
+    text-align: center;
+}
+
+.container {
+    height: 300px;
+}
